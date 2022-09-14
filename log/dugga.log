@@ -1,0 +1,35 @@
+Mon Sep 05 2022 08:32:46 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:32:46 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:32:56 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:32:56 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:33:21 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:33:21 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:35:46 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:35:46 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:37:08 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:37:08 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:38:28 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:38:28 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:39:04 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:39:04 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:39:04 GMT-0400 (Eastern Daylight Time) New Data inserted
+Mon Sep 05 2022 08:39:44 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:39:44 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:39:44 GMT-0400 (Eastern Daylight Time) New Data inserted
+Mon Sep 05 2022 08:48:33 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:48:33 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:55:40 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:55:39 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:55:53 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:55:53 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:55:53 GMT-0400 (Eastern Daylight Time) New Data inserted
+Mon Sep 05 2022 08:55:53 GMT-0400 (Eastern Daylight Time) New Data inserted
+Mon Sep 05 2022 08:55:53 GMT-0400 (Eastern Daylight Time) New Data inserted
+Mon Sep 05 2022 08:55:53 GMT-0400 (Eastern Daylight Time) New Data inserted
+Mon Sep 05 2022 08:58:01 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Mon Sep 05 2022 08:58:01 GMT-0400 (Eastern Daylight Time) Dugga dugga database connected successfully
+Mon Sep 05 2022 08:58:01 GMT-0400 (Eastern Daylight Time) New Data inserted
+Tue Sep 06 2022 02:04:19 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Tue Sep 06 2022 02:04:26 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+Tue Sep 06 2022 02:04:42 GMT-0400 (Eastern Daylight Time) Dugga dugga server initiated on PORT: 3001
+MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
